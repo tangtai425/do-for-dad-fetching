@@ -1,0 +1,15 @@
+{
+  "name": "do-for-dad-fetching",
+  "version": "1.0.0",
+  "main": "fetchData.js",
+  "repository": "git@github.com:tangtai425/do-for-dad-fetching.git",
+  "author": "Korrakhod <mirable.tang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "fetch": "node fetchData.js",
+    "find:pmung": "node findPMungGoal.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
